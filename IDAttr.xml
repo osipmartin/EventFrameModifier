@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AF xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="OSIsoft.AF.xsd" SchemaVersion="2.0" SoftwareVersion="2.8.6.7801" ExportMode="NoUniqueID" PISystem="PMARTIN-AF" Database="T" Description="" Created="2017-07-06T17:33:43.8738758Z" id="fd423798-8fab-453d-9c22-86af908f6006" ParentKey="a3bf3871-33c8-4f1b-8b02-860baa684a3b" ExportedObject="IDAttr" ExportedType="AFElementTemplate" Identity="ElementTemplate" PIPersist="178 {9895150E-085D-4fcb-A16D-5EF5D2527196} 2\{b99e5d86-9b56-4b93-9fed-b141d6bcc482}\ElementTemplates[{fd423798-8fab-453d-9c22-86af908f6006}]*PMARTIN-AF\T\ElementTemplates[IDAttr]">
+  <AFElementTemplate>
+    <Name>IDAttr</Name>
+    <Type>None</Type>
+    <InstanceType>EventFrame</InstanceType>
+    <AllowElementToExtend>false</AllowElementToExtend>
+    <AFAttributeTemplate>
+      <Name>Attribute1</Name>
+      <Type>Double</Type>
+      <Value type="Double">0</Value>
+    </AFAttributeTemplate>
+    <AFAttributeTemplate>
+      <Name>ID</Name>
+      <Type>Int32</Type>
+      <Value type="Int32">0</Value>
+    </AFAttributeTemplate>
+  </AFElementTemplate>
+</AF>
