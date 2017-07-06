@@ -1,0 +1,16 @@
+c:\users\pmartin\documents\visual studio 2017\Projects\EventFrameModifier\EventFrameModifier\obj\Debug\EventFrameModifier.csprojResolveAssemblyReference.cache
+c:\users\pmartin\documents\visual studio 2017\Projects\EventFrameModifier\EventFrameModifier\obj\Debug\MainWindow.g.cs
+c:\users\pmartin\documents\visual studio 2017\Projects\EventFrameModifier\EventFrameModifier\obj\Debug\App.g.cs
+c:\users\pmartin\documents\visual studio 2017\Projects\EventFrameModifier\EventFrameModifier\obj\Debug\EventFrameModifier_MarkupCompile.cache
+c:\users\pmartin\documents\visual studio 2017\Projects\EventFrameModifier\EventFrameModifier\obj\Debug\EventFrameModifier_MarkupCompile.lref
+c:\users\pmartin\documents\visual studio 2017\Projects\EventFrameModifier\EventFrameModifier\bin\Debug\EventFrameModifier.exe.config
+c:\users\pmartin\documents\visual studio 2017\Projects\EventFrameModifier\EventFrameModifier\bin\Debug\EventFrameModifier.exe
+c:\users\pmartin\documents\visual studio 2017\Projects\EventFrameModifier\EventFrameModifier\bin\Debug\EventFrameModifier.pdb
+c:\users\pmartin\documents\visual studio 2017\Projects\EventFrameModifier\EventFrameModifier\bin\Debug\OSIsoft.AFSDK.dll
+c:\users\pmartin\documents\visual studio 2017\Projects\EventFrameModifier\EventFrameModifier\bin\Debug\OSIsoft.AFSDK.xml
+c:\users\pmartin\documents\visual studio 2017\Projects\EventFrameModifier\EventFrameModifier\obj\Debug\MainWindow.baml
+c:\users\pmartin\documents\visual studio 2017\Projects\EventFrameModifier\EventFrameModifier\obj\Debug\EventFrameModifier.g.resources
+c:\users\pmartin\documents\visual studio 2017\Projects\EventFrameModifier\EventFrameModifier\obj\Debug\EventFrameModifier.Properties.Resources.resources
+c:\users\pmartin\documents\visual studio 2017\Projects\EventFrameModifier\EventFrameModifier\obj\Debug\EventFrameModifier.csproj.GenerateResource.Cache
+c:\users\pmartin\documents\visual studio 2017\Projects\EventFrameModifier\EventFrameModifier\obj\Debug\EventFrameModifier.exe
+c:\users\pmartin\documents\visual studio 2017\Projects\EventFrameModifier\EventFrameModifier\obj\Debug\EventFrameModifier.pdb
